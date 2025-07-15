@@ -129,11 +129,11 @@
             <lg n="15" xml:id="lg015">
                <l n="43">Great grief seized on my heart when this I heard,</l>
                <l n="44">Because some people of much worthiness</l>
-               <l n="45">I knew, who in that Limbo were suspended.</l>
+               <l n="45">I knew, who in that <placeName xml:id="limb01">Limbo</placeName> were suspended.</l>
             </lg>
 
             <lg n="16" xml:id="lg016">
-               <l n="46">“Tell me, my Master, tell me, thou my Lord,”</l>
+               <l n="46">“Tell me, <persName cert="high" type="identifiable" xml:id="virg03">my Master</persName>, tell me, thou my Lord,”</l>
                <l n="47">Began I, with desire of being certain</l>
                <l n="48">Of that Faith which o’ercometh every error,</l>
             </lg>
