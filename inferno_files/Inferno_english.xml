@@ -133,7 +133,7 @@
             </lg>
 
             <lg n="16" xml:id="lg016">
-               <l n="46">“Tell me, <persName cert="high" type="identifiable" xml:id="virg03">my Master</persName>, tell me, thou my Lord,”</l>
+               <l n="46">“Tell me, my <persName cert="high" type="identifiable" xml:id="virg03">Master</persName>, tell me, thou my Lord,”</l>
                <l n="47">Began I, with desire of being certain</l>
                <l n="48">Of that Faith which o’ercometh every error,</l>
             </lg>
@@ -217,7 +217,7 @@
             </lg>
 
             <lg n="30" xml:id="lg030">
-               <l n="88">That one is Homer, Poet sovereign;</l>
+               <l n="88">That one is <persName cert="high" subtype="greek" type="identifiable" xml:id="hom01">Homer</persName>, Poet sovereign;</l>
                <l n="89">He who comes next is Horace, the satirist;</l>
                <l n="90">The third is Ovid, and the last is Lucan.</l>
             </lg>
